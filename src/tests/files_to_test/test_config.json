@@ -1,0 +1,15 @@
+{
+    "general":
+    {
+        "database":
+        {
+            "Portal":
+            {
+                "server":"B6",
+                "name":"C6",
+                "security":"D6"
+            }
+        },
+        "list": "A9:C9"
+    }
+}
